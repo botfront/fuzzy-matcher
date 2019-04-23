@@ -1,5 +1,0 @@
-[
-  "tests/test_fuzzy_matcher.py::test_partial_distance",
-  "tests/test_fuzzy_matcher.py::test_ratio",
-  "tests/test_fuzzy_matcher.py::test_partial_ratio"
-]

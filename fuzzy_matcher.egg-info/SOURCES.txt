@@ -1,8 +1,0 @@
-README.md
-fuzzy_matcher/__init__.py
-fuzzy_matcher/process.py
-fuzzy_matcher.egg-info/PKG-INFO
-fuzzy_matcher.egg-info/SOURCES.txt
-fuzzy_matcher.egg-info/dependency_links.txt
-fuzzy_matcher.egg-info/requires.txt
-fuzzy_matcher.egg-info/top_level.txt
