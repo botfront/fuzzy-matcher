@@ -21,3 +21,9 @@ should output:
 
 Only `ratio` and `partial_ratio` are supported at this time.
 Note that scores will not be the same as FuzzyWuzzy's. 
+
+## License
+
+[MIT License](https://github.com/botfront/fuzzy-matcher/blob/master/LICENSE)
+
+Copyright (c) 2019 9300-2038 Quebec Inc.
