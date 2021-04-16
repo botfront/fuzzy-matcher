@@ -3,6 +3,14 @@
 A super simple MIT licensed fuzzy matching library to be used as an MIT alternative to Fuzzy Wuzzy which is GPL licensed.
 It is much less featured as Fuzzy Wuzzy, so if GPL is not blocking you, you should probably use Fuzzy Wuzzy instead.
 
+## Alternatives
+
+https://github.com/maxbachmann/RapidFuzz
+
+```bash
+pip install rapidfuzz
+```
+
 ## Installation
 
 ```bash
